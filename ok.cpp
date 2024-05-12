@@ -19,6 +19,6 @@ int main(){
     cin >> a;
     cout << "The factorial of " << a << factorial(a) << endl;  
      
-    return 0;
+    return a;
 
 }
